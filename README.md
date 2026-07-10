@@ -352,10 +352,11 @@ This project demonstrates:
 
 ## Blueprint File
 
-Click the link below to download the Make.com blueprint:
+Click the link below to open the Make.com blueprint.
+
+Then click **Raw** to download the `.blueprint.json` file and import it into Make.
 
 [Download the Make.com Blueprint](AI-Powered%20Customer%20Support%20Automation.blueprint.json)
-
 ---
 
 ## Project Structure
