@@ -279,22 +279,45 @@ This follows the same workflow used by enterprise helpdesk platforms such as Zen
 
 ---
 
+
 ## Screenshots
 
-Create a folder named:
+### 1. Full Make.com Workflow
+![Workflow Overview](screenshots/01-workflow-overview.png)
 
-```text
-screenshots/
-```
+### 2. Airtable Support Tickets
+![Airtable](screenshots/Airtable.png)
 
-Add the following screenshots to the folder:
+### 3. Gmail Auto-Reply
+![Gmail Auto Reply](screenshots/03-gmail-auto-reply.png)
 
-1. Full Make.com scenario canvas
-2. Airtable Support Tickets table
-3. Gmail auto-reply received by the customer
-4. Slack urgent notification
-5. Groq AI HTTP module configuration
-6. Router filter configuration
+### 4. Slack Urgent Notification
+![Slack Notification](screenshots/04-slack-urgent-notification.png)
+
+### 5. Groq AI HTTP Module Configuration
+
+#### HTTP Module - Request Settings
+![HTTP 1](screenshots/05-http-1.png)
+
+#### HTTP Module - Headers
+![HTTP 2](screenshots/06-http-2.png)
+
+#### HTTP Module - Body Configuration
+![HTTP 4](screenshots/08-http-4.png)
+
+### 6. Router Filter Configuration
+
+#### Billing Filter
+![Billing Filter](screenshots/10-billing-filter.png)
+
+#### Technical Filter
+![Technical Filter](screenshots/11-technical-filter.png)
+
+#### General Filter
+![General Filter](screenshots/12-general-filter.png)
+
+#### Urgent Filter
+![Urgent Filter](screenshots/13-urgent-filter.png)
 
 ---
 
