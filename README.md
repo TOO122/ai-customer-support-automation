@@ -350,6 +350,14 @@ This project demonstrates:
 
 ---
 
+## Blueprint File
+
+Click the link below to download the Make.com blueprint:
+
+[Download the Make.com Blueprint](AI-Powered%20Customer%20Support%20Automation.blueprint.json)
+
+---
+
 ## Project Structure
 
 ```text
