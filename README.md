@@ -355,7 +355,7 @@ This project demonstrates:
 ```text
 ai-customer-support-automation/
 ├── screenshots/
-├── ai-customer-support-workflow.json
+├── AI-Powered Customer Support Automation.blueprint.json
 └── README.md
 ```
 
