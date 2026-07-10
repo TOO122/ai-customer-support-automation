@@ -6,8 +6,6 @@
 
 **Tools:** Groq AI · Gmail · Airtable · Slack
 
-**Project 2 of 5 | AI Automation Portfolio**
-
 ---
 
 ## What This Project Does
